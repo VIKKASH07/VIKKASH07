@@ -1,1 +1,1 @@
-python GHSS_ALAHTUR.py
+python GHSS_ALATHUR.py
