@@ -129,7 +129,7 @@ _______________________________________________
         elif b == '95':
             delay_print('\033[1;92mComing back')
             os.system('sleep 1.0')
-            os.system('python GHSS_ALAHTUR.py')
+            os.system('python GHSS_ALATHUR.py')
             
      
         else:
@@ -185,7 +185,7 @@ _______________________________________________
         elif c == '95':
             delay_print('\033[1;92mComing back')
             os.system('sleep 1.0')
-            os.system('python GHSS_ALAHTUR.py')
+            os.system('python GHSS_ALATHUR.py')
             
         elif c ==00 or c==0:
             delay_print(f"""
@@ -223,7 +223,7 @@ __________________________________________________________________________
         if f=='95':
             delay_print('\033[1;92mComing back')
             os.system('sleep 1.0')
-            os.system('python GHSS_ALAHTUR.py')
+            os.system('python GHSS_ALATHUR.py')
         elif f=='00' or f=='0':
             delay_print(f"""
 {jjj}    THANK YOU.... 
@@ -249,4 +249,4 @@ elif a== 'q' or a== 'Q'or a==00 or a==0:
 else:
 	delay_print('\n\033[1;92mInvalid Input\n')
 	os.system('sleep 1.0')
-	os.system('python GHSS_ALAHTUR.py')
+	os.system('python GHSS_ALATHUR.py')
